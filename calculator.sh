@@ -14,3 +14,6 @@ zx = X/Y
 # Merge Example Branch: Subtraction
 c = b - a
 
+# Another merge example
+d = c - p
+
