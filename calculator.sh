@@ -13,5 +13,12 @@ zx = X/Y
 
 # Merge Example Branch: Subtraction
 c = b - a
+
 # Rebase Example branch: Multiplication
 f = o*p
+
+
+# Another merge example
+d = c - p
+
+
